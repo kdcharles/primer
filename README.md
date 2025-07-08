@@ -1,60 +1,68 @@
-
-
-# 🌐 LiminalWorks: Symbolic Coherence Systems
+# Primer
 
 ## Overview
 
-LiminalWorks is an experimental framework exploring the intersection of symbolic physics, cognitive architectures, and biometric feedback. The project is designed to investigate and operationalize coherence as a fundamental vector across physical, social, and cognitive fields.
+**Primer** is a foundational exploration of symbolic physics, coherence engineering, and field dynamics. The project integrates cognitive, biometric, and symbolic architectures to study — and operationalize — coherence as a living force.
 
 ---
 
-## Core Concepts
+## Core Ideas
 
-- **Symbolic Physics**: Mapping and manipulating energy, intention, and resonance using glyphs, phase structures, and coherence fields.
-- **Coherence Engineering**: Tools and protocols that measure, maintain, and modulate symbolic and biometric coherence in real-time.
-- **Ethical Gating**: Systems that only activate when both symbolic and biometric integrity thresholds are met.
-- **Field Dynamics**: Recursive feedback systems linking personal, social, and environmental layers.
+- **Symbolic Physics**  
+  Investigating energy and information as coherent fields rather than purely particle-based phenomena.
 
----
+- **Glyph Stacks & Resonance**  
+  Modeling motifs, intentions, and phase-locked coherence patterns using recursive glyph structures.
 
-## Key Components
+- **Ethical Activation**  
+  Systems that only activate when symbolic and biometric coherence thresholds are satisfied.
 
-- `Glyph` and `GlyphStack` classes for symbolic frequency and phase modeling.
-- Biometric modules (HRV, GSR) for real-time coherence verification.
-- Ethical locks and actuators for secure, intentional system activation.
-- Doctrine composting for logging and evolving symbolic fragments.
+- **Field Feedback**  
+  Real-time relational dynamics across individual, social, and environmental layers.
 
 ---
 
-## Example Applications
+## Modules
 
-- Adaptive personal or group coherence beacons.
-- Ritualized actuator systems with ethical gating.
-- Future wearable prototypes (rings, badges, or installations).
-- Research into symbolic security and energy stewardship.
+- 🧬 **Glyph & Stack Architectures**: Frequency and phase modulation primitives.
+- 🫀 **Biometric Bridges**: HRV and GSR-based coherence verification.
+- 🔐 **Ethical Locks**: Permission systems rooted in both symbolic integrity and physical readiness.
+- 📜 **Doctrine Composting**: Logging symbolic fragments for iterative evolution.
+
+---
+
+## Potential Applications
+
+- Coherence-based actuators and symbolic beacons.
+- Wearables or artifacts that respond to attention and intention.
+- Secure activation systems for high-impact environments.
+- Research into next-gen energy modulation and ethical field stewardship.
 
 ---
 
 ## Philosophy
 
-This project does not aim to dominate or extract — it invites a new relational paradigm where coherence, attention, and symbolic alignment guide activation and creation.  
+This is not a tool for domination.  
+It is an invitation to explore how meaning, energy, and coherence can shape new forms of interaction and creation — across scales and substrates.
 
 ---
 
 ## Status
 
-🚧 **In active research and prototyping phase.**  
-Not yet intended for production or public deployment.
+🚧 **Prototype phase.**  
+Rapidly evolving. Not yet intended for public deployment.
 
 ---
 
 ## License
 
-Private experimental codebase. Usage or adaptation requires explicit permission.
+Private, research-focused codebase.  
+Inquiries and contributions by invitation.
 
 ---
 
 ## Contact
 
-For inquiries, collaborations, or research discussions, please reach out via the repository discussion board or secure contact channels.
+DM or open a private discussion on this repo.  
+For deeper collaborations, reach out via secure channels.
 
